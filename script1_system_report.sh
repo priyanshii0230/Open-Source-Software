@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Student info ---
-STUDENT_NAME="Kriti Singh"
+STUDENT_NAME="Priyanshi Srivastava"
 SOFTWARE_CHOICE="Git"
 
 # --- Pull system info using command substitution ---
